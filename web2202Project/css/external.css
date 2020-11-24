@@ -1,0 +1,102 @@
+.logo{
+    width:auto; 
+    height:130px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.login{
+	display:flex;
+	flex-direction:column;
+	align-items: center;
+    background-color: #005b96;
+    border: 3px solid #011f4b;
+    border-radius: 3px;
+    padding: 4px;
+    color: white;
+    margin-left:auto;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #005b96 ;
+  border: 3px solid #011f4b;
+}
+
+.product{
+    background-color: #007fff;
+    color:#f5fafa;
+    text-align:center;
+    padding: 5px;
+    margin: 10px;
+    border: 3px solid #17224d;
+    border-radius: 3px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.middle{
+	max-width:50%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.productImage{
+	text-align:center;
+	margin-left: auto;
+	background-color: #007fff;
+	padding:10px;
+	border: 3px solid black;
+    border-radius: 3px;
+}
+
+.productBorder{
+	
+	text-align:center;
+	margin-right:auto;
+	padding:10px;
+	border: 3px solid black;
+    border-radius: 3px;
+    background-color: #007fff;
+}
+
+.border{
+	text-align:center;
+	max-width:75%;
+	margin-left:auto;
+	margin-right:auto;
+	padding:10px;
+	border: 3px solid black;
+    border-radius: 10px;
+    background-color: #007fff;
+}
+
+.buttonStyle{
+	border: none;
+  	padding: 0;
+  	background: none;
+}
+
+body{
+	background-color: #03396c;
+}
+
+a:link{
+	color:#17e9e1
+}
+
+a:hover{
+    color:yellow
+}
+
+a:visited{
+    color:#17e9e1
+}
